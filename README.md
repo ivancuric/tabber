@@ -1,2 +1,2 @@
 # tabber
-A no-nonsense aria-friendly singleton for controling tabbed content
+A no-nonsense aria-friendly class for controling tabbed content.
